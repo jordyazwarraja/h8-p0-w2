@@ -1,0 +1,85 @@
+TUGAS 1
+
+var F,m,a;
+
+F = m*a;
+m = 600;
+a = 2;
+
+console.log (F);
+
+
+
+
+TUGAS 2
+
+Store "tahun" to any number
+
+IF "tahun" mod 4 = 0 & "tahun" mod 100 != 0
+
+And
+
+IF "tahun" mod 4 = 0 & "tahun" mod 100 = 0 & "tahun" mod 400 =0
+		
+		DO Console.log ('Tahun kabisat');
+
+	Else
+		
+		DO console.log ('Bukan tahun kabisat');
+		
+		
+
+TUGAS 3
+
+STORE "jumlah pakaian" with 0
+
+WHILE "jumlah pakaian" < 20
+  ADD "jumlah pakaian" by 1
+
+DISPLAY "Pakaian akan segera dicuci!"
+
+
+
+
+TUGAS 4
+
+STORE "siswa" to 1
+STORE "kukuSiswa"
+
+while "siswa" <= 40
+
+	DISPLAY "siswa"
+	RANDOM "kukuSiswa" 1
+	STORE "jenisKuku" to the result of calculation
+	
+	IF "jenisKuku" equals to 0
+		DISPLAY "Pendek, bagus!"
+	
+	Else
+		DISPLAY "Panjang, dihukum!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
